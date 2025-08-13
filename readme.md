@@ -1,4 +1,4 @@
-Please choose the "branch" corresponding to the topic to find the code up to that point.
+
 # 📈 Stock Trading Platform
 
 A full-featured **web-based trading application** designed to simulate or enable real-time buying and selling of stocks.  
